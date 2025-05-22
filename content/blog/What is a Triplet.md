@@ -10,8 +10,7 @@ When discussing networks—particularly social networks that permeate daily life
 
 <img src="https://share.github.cn.com/sdmnt/user-61yYs7yzQFS3ja7hylArHBAF/47aa52e0-e323-496a-9eaa-ef34fc6a4327.png" alt="已生成图片" style="zoom:25%;" />
 
-> # It does not require that all three individuals are mutually acquainted. Instead, it focuses on the existing connections among them. For instance, you may know your friend, and your friend may know their friend, but you and that friend’s friend may not be acquainted. Triplets capture such localized relationship patterns.The formal term for this concept is **transitivity**, which states: if you are a friend of A, and A is a friend of B, then you are likely also acquainted with B. Triplets reveal this underlying principle—"a friend of a friend is likely a friend."
->
+> It does not require that all three individuals are mutually acquainted. Instead, it focuses on the existing connections among them. For instance, you may know your friend, and your friend may know their friend, but you and that friend’s friend may not be acquainted. Triplets capture such localized relationship patterns.The formal term for this concept is **transitivity**, which states: if you are a friend of A, and A is a friend of B, then you are likely also acquainted with B. Triplets reveal this underlying principle—"a friend of a friend is likely a friend."
 
 
 
