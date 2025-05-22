@@ -1,23 +1,17 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: What is a Triplet
+date: "2025-05-22T7:10:03.284Z"
+description: "What is a Triplet"
 ---
 
 This is my first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> In the study of complex networks, especially social networks, graph theory
+> is frequently employed as a fundamental analytical tool. A basic
+> and crucial concept within graph theory is the notion of a triplet.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
@@ -35,7 +29,11 @@ const saltyDuckEgg = "chinese preserved food product"
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
-This is a paragraph.
+When discussing networks—particularly social networks that permeate daily life—triplets play a key role. Simply put, a triplet refers to a small group of three "friends" within the network. Imagine yourself, a friend, and that friend’s friend; these three individuals together form a triplet.
+
+What exactly does a triplet capture? It does not require that all three individuals are mutually acquainted. Instead, it focuses on the existing connections among them. For instance, you may know your friend, and your friend may know their friend, but you and that friend’s friend may not be acquainted. Triplets capture such localized relationship patterns.
+
+The formal term for this concept is transitivity, which states: if you are a friend of A, and A is a friend of B, then you are likely also acquainted with B. Triplets reveal this underlying principle—"a friend of a friend is likely a friend."
 
     This is a paragraph.
 
