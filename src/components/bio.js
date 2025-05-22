@@ -44,7 +44,7 @@ const Bio = () => {
       />
       {author?.name && (
         <p>
-         Written by <strong>Your Name</strong> Nice to meet you.{' '}
+         Written by <strong>GuAn</strong> Nice to meet you.{' '}
            <a href={`https://outlook.live.com/mail/0/`}>
        You can contact me via Outlook
       </a>
