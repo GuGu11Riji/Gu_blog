@@ -46,7 +46,7 @@ const Bio = () => {
         <p>
          Written by <strong>GuAn</strong> Nice to meet you.{' '}
            <a href={`https://outlook.live.com/mail/0/`}>
-       You can contact me via Outlook
+       You can contact me via Outlook GuloveLY
       </a>
         </p>
       )}
